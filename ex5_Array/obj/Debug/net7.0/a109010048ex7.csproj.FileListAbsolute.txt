@@ -1,0 +1,15 @@
+/Users/jessie/Desktop/a109010048ex7/bin/Debug/net7.0/a109010048ex7
+/Users/jessie/Desktop/a109010048ex7/bin/Debug/net7.0/a109010048ex7.deps.json
+/Users/jessie/Desktop/a109010048ex7/bin/Debug/net7.0/a109010048ex7.runtimeconfig.json
+/Users/jessie/Desktop/a109010048ex7/bin/Debug/net7.0/a109010048ex7.dll
+/Users/jessie/Desktop/a109010048ex7/bin/Debug/net7.0/a109010048ex7.pdb
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.csproj.AssemblyReference.cache
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.AssemblyInfoInputs.cache
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.AssemblyInfo.cs
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.csproj.CoreCompileInputs.cache
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.dll
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/refint/a109010048ex7.dll
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.pdb
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/a109010048ex7.genruntimeconfig.cache
+/Users/jessie/Desktop/a109010048ex7/obj/Debug/net7.0/ref/a109010048ex7.dll
