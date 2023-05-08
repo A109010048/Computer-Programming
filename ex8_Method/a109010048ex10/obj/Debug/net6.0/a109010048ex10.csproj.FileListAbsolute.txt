@@ -1,0 +1,15 @@
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\bin\Debug\net6.0\a109010048ex10.exe
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\bin\Debug\net6.0\a109010048ex10.deps.json
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\bin\Debug\net6.0\a109010048ex10.runtimeconfig.json
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\bin\Debug\net6.0\a109010048ex10.dll
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\bin\Debug\net6.0\a109010048ex10.pdb
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.csproj.AssemblyReference.cache
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.AssemblyInfoInputs.cache
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.AssemblyInfo.cs
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.csproj.CoreCompileInputs.cache
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.dll
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\refint\a109010048ex10.dll
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.pdb
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\a109010048ex10.genruntimeconfig.cache
+C:\Users\m305\Desktop\a109010048ex10\a109010048ex10\obj\Debug\net6.0\ref\a109010048ex10.dll
