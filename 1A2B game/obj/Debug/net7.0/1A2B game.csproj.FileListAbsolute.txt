@@ -1,0 +1,15 @@
+/Users/jessie/Desktop/1A2B game/bin/Debug/net7.0/1A2B game
+/Users/jessie/Desktop/1A2B game/bin/Debug/net7.0/1A2B game.deps.json
+/Users/jessie/Desktop/1A2B game/bin/Debug/net7.0/1A2B game.runtimeconfig.json
+/Users/jessie/Desktop/1A2B game/bin/Debug/net7.0/1A2B game.dll
+/Users/jessie/Desktop/1A2B game/bin/Debug/net7.0/1A2B game.pdb
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.csproj.AssemblyReference.cache
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.AssemblyInfoInputs.cache
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.AssemblyInfo.cs
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.csproj.CoreCompileInputs.cache
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.dll
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/refint/1A2B game.dll
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.pdb
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/1A2B game.genruntimeconfig.cache
+/Users/jessie/Desktop/1A2B game/obj/Debug/net7.0/ref/1A2B game.dll
